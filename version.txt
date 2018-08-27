@@ -1,0 +1,1 @@
+{"version": "1.0", "url": "https://miladesign.github.io/OnStorage/docs/construct2.md@https://miladesign.github.io/OnStorage/docs/gms1.md", "fa": "کانستراکت ۲@گیم میکر استودیو ۱", "en": "Construct 2@GameMaker Studio 1.x"}
